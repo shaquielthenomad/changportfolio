@@ -217,26 +217,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "**Current**  \n*   Marketing Strategist @Hey Partner! \U0001F1FF\U0001F1E6  \n    Cape Town, South Africa \n\n**2024**  \n*   Performance Marketing Specialist @fileAI \U0001F1F8\U0001F1EC  \n    Singapore  \n\n**2023**  \n*   Paid Ads Specialist @Panthera Group \U0001F1F9\U0001F1ED  \n    Bangkok, Thailand  \n\n**2022**  \n*   Marketing Manager @Bang Bang Sauce Factory \U0001F1F9\U0001F1ED  \n    Bangkok, Thailand  \n   \n"
         actions: []
         styles:
           self:
