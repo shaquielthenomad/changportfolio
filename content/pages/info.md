@@ -21,7 +21,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/preview_L1001793.JPG
-      altText: Hero image
+      altText: Shaquiel Sewell
     styles:
       self:
         height: auto
