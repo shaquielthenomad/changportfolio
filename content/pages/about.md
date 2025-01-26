@@ -64,7 +64,7 @@ sections:
         caption: Logo three
       - type: ImageBlock
         url: /images/Panthera.png
-        altText: Logo four
+        altText: Panthera Group
         caption: Logo four
       - type: ImageBlock
         url: /images/Notion logo.png
