@@ -61,7 +61,7 @@ sections:
       - type: ImageBlock
         url: /images/yoco_main_white_CMYK-1200x732.png
         altText: Yoco
-        caption: Logo three
+        caption: Yoco Payments
       - type: ImageBlock
         url: /images/Panthera.png
         altText: Panthera Group
