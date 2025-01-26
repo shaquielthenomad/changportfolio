@@ -13,15 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I'm Shaquiel. Born in South Africa,  I'm a Marketing specialist , with
+      a love for travel. i have been to 14 countries and yet to explore further.
+      i'm on a quest to better humanity, how can i help you today? Currently
+      changing the world with [Hey Partner! ](https://heypartner.online)
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/preview_L1001793.JPG
+      altText: Shaquiel Sewell
     styles:
       self:
         height: auto
