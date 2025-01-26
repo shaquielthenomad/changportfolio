@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Link
             label: 'Shaquiel (ช้าง) Sewell '
-            url: ''
+            url: 'https://www.linkedin.com/in/shaquiel-sewell/'
         styles:
           self:
             textAlign: left
