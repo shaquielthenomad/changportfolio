@@ -18,7 +18,7 @@ sections:
       , with a love for travel. i have been to 14 countries and yet to explore
       further. i'm on a quest to better humanity, how can i help you today?
       Currently changing the world with [Hey Partner!
-      .](https://heypartner.online)
+      ](https://heypartner.online)
 
     media:
       type: ImageBlock
