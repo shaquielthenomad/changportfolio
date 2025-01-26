@@ -12,13 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## I'm Shaquiel. Born in South Africa,  I'm a [Marketing specialist
-      ](https://www.linkedin.com/in/shaquiel-sewell/), with a love for travel. i
-      have been to 14 countries and yet to explore further. i'm on a quest to
-      better humanity, how can i help you today? Currently changing the world
-      with [Hey Partner! ](https://heypartner.online)
-
+    text: "# I'm Shaquiel\n\n**Born in South Africa.** Building bridges between cultures through marketing.\n\n[Marketing Specialist](https://www.linkedin.com/in/shaquiel-sewell/){:target=\"_blank\" rel=\"noopener\"} | [Currently changing the world with Hey Partner!](https://heypartner.online){:target=\"_blank\" rel=\"noopener\" .text-accent}\n\n---\n\n***\n\n## My Journey\n\n*   \U0001F30D **14 Countries, 1 Mission**: From Durban to Bangkok, I’ve helped brands like \\[Client Name] tap into underserved markets using localized strategies.\n*   \U0001F393 **BBA in High-Tech Entrepreneurship**: Merging academic rigor (University of the Thai Chamber of Commerce) with real-world startup challenges.\n*   \U0001F525 **Why I Do This**: After seeing expat businesses fail due to cultural blindspots, I vowed to be the guide I wish they’d had.\n\n***\n\n## How I Can Help You\n\n### 1. For Startups\n\n*   **Avoid \"Copy-Paste\" Marketing**: I’ll audit your strategy for cultural mismatches (e.g., why your Facebook Ads flopped in Vietnam).\n*   **CRM Systems That Actually Work**: Implement tools like HubSpot with workflows tailored to SEA markets.\n\n### 2. For Expats\n\n*   **Travel-Meets-Business Intel**: Get my curated list of Bangkok co-working spaces with reliable WiFi + insider negotiation tips.\n\n[Let’s Fix Your Strategy](mailto:shaquiel@heypartner.online){: .btn-primary}\n\n***\n\n## My Tools for Global Impact\n\n*   **Hey Partner!**: [Learn how we’re empowering remote teams](https://heypartner.online){:target=\"\\_blank\"}.\n*   **Free Resources**: [Download my \"5 Cultural Taboos in Asian Marketing\" PDF](#).\n"
     media:
       type: ImageBlock
       url: /images/preview_L1001793.JPG
