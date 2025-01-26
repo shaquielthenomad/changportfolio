@@ -53,8 +53,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "About",
+                "url": "/about",
                 "altText": ""
             },
             {
@@ -71,9 +71,9 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "Go Global",
+                "url": "/goglobal",
+                "altText": "Go Global"
             }
         ],
         "contacts": {
