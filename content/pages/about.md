@@ -65,7 +65,7 @@ sections:
       - type: ImageBlock
         url: /images/Panthera.png
         altText: Panthera Group
-        caption: Logo four
+        caption: Panthera Group Thailand
       - type: ImageBlock
         url: /images/Notion logo.png
         altText: Notion
