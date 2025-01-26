@@ -7,7 +7,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/preview_L1001793.JPG
+      url: /images/aboutShaquiel Sewell.png
       altText: Shaquiel Sewell
     colors: colors-f
     backgroundSize: full
