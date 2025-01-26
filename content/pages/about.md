@@ -229,18 +229,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+        text: "2022 - 2025\n\n*   Bachelor of Business Administration - High Tech Entrepreneurship @[University of the Thai Chamber of Commerce](https://utcc.ac.th) \U0001F1F9\U0001F1EDBangkok, Thailand (2022 - 2025)\n\n*   Bachelor’s Degree, Digital Marketing @[HARBOUR.SPACE](https://harbour.space) \U0001F1EA\U0001F1F8Barcelona, Spain \n\n"
         actions: []
         styles:
           self:
