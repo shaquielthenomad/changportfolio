@@ -60,7 +60,7 @@ sections:
         caption: Logo two
       - type: ImageBlock
         url: /images/yoco_main_white_CMYK-1200x732.png
-        altText: Logo three
+        altText: Yoco
         caption: Logo three
       - type: ImageBlock
         url: /images/Panthera.png
