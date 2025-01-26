@@ -128,7 +128,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: 'Shaquiel (ช้าง) Sewell '
             url: 'https://www.linkedin.com/'
         styles:
           self:
