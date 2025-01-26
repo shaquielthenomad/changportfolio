@@ -136,14 +136,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Instagram
             url: 'https://www.instagram.com/shaquielthenomad'
         styles:
