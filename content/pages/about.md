@@ -217,26 +217,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "**Current**\n\n*   Marketing Strategist @Hey Partner! \U0001F1FF\U0001F1E6  \n    Personal Planning & Concierge  \n    Cape Town, South Africa\n\n**2024**\n\n*   Performance Marketing Specialist @fileAI \U0001F1F8\U0001F1EC  \n    Process any file end-to-end directly into any system without manual intervention.  \n    Singapore\n\n**2023**\n\n*   Paid Ads Specialist @Panthera Group \U0001F1F9\U0001F1ED  \n    One of the fastest-growing private companies.  \n    Bangkok, Thailand\n\n**2022**\n\n*   Marketing Manager @Bang Bang Sauce Factory \U0001F1F9\U0001F1ED  \n    Bang Bang Burgers, Crafted smashburgers by Michelin Starred Chef.  \n    Bangkok, Thailand\n"
         actions: []
         styles:
           self:
@@ -248,18 +229,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+        text: "2022 - 2025\n\n*   Bachelor of Business Administration - High Tech Entrepreneurship @[University of the Thai Chamber of Commerce](https://utcc.ac.th) \U0001F1F9\U0001F1ED \nBangkok, Thailand\n\n*   Bachelor’s Degree, Digital Marketing @[HARBOUR.SPACE](https://harbour.space) \U0001F1EA\U0001F1F8\nBarcelona, Spain\n\n"
         actions: []
         styles:
           self:
