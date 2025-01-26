@@ -158,6 +158,7 @@ sections:
           self:
             textAlign: left
         title: Instagram
+        subtitle: '@'
     actions: []
     colors: colors-f
     columns: 3
