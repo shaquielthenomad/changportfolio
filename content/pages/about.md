@@ -133,6 +133,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Linkedin
       - type: FeaturedItem
         actions:
           - type: Link
