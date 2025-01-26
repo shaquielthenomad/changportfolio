@@ -69,7 +69,7 @@ sections:
       - type: ImageBlock
         url: /images/Notion logo.png
         altText: Notion
-        caption: Logo five
+        caption: Notion Campus Leader
     colors: colors-f
     spacing: 3
     columns: 5
