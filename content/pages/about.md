@@ -67,7 +67,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Notion logo.png
         altText: Logo five
         caption: Logo five
     colors: colors-f
