@@ -46,6 +46,14 @@
                 "url": "https://www.linkedin.com/in/shaquiel-sewell/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/shaquielthenomad/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
