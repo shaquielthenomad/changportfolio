@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: GO GLOBAL
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
