@@ -56,7 +56,7 @@ sections:
         caption: Logo one
       - type: ImageBlock
         url: /images/harbour.space.png
-        altText: Logo two
+        altText: Harbour.Space
         caption: Logo two
       - type: ImageBlock
         url: /images/yoco_main_white_CMYK-1200x732.png
