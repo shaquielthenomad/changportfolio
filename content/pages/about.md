@@ -68,7 +68,7 @@ sections:
         caption: Logo four
       - type: ImageBlock
         url: /images/Notion logo.png
-        altText: Logo five
+        altText: Notion
         caption: Logo five
     colors: colors-f
     spacing: 3
