@@ -157,6 +157,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Instagram
     actions: []
     colors: colors-f
     columns: 3
