@@ -59,7 +59,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/yoco_main_white_CMYK-1200x732.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
