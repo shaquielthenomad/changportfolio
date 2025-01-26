@@ -142,7 +142,7 @@ sections:
           self:
             textAlign: left
         title: Instagram
-        subtitle: '@shaquielthenomad'
+        subtitle: ''
     actions: []
     colors: colors-f
     columns: 3
