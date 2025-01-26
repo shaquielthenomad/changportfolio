@@ -48,7 +48,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I worked with:'
     images:
       - type: ImageBlock
         url: /images/Shell.png
