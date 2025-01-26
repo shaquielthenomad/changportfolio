@@ -53,7 +53,7 @@ sections:
       - type: ImageBlock
         url: /images/Shell.png
         altText: Shell Fuel
-        caption: Logo one
+        caption: Shell Fuel
       - type: ImageBlock
         url: /images/harbour.space.png
         altText: Harbour.Space
