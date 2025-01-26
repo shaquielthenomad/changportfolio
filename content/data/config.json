@@ -10,8 +10,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "About",
+                "url": "/about"
             },
             {
                 "type": "Link",
