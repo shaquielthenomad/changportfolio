@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I'm Shaquiel. South African.  I'm a Marketing specialist , with a love
+      ## I'm Shaquiel, South African.  I'm a Marketing specialist , with a love
       for travel. i have been to 14 countries and yet to explore further. i'm on
       a quest to better humanity, how can i help you today? Currently changing
       the world with [Hey Partner! ](https://heypartner.online)
