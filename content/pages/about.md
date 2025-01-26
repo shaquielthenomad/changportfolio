@@ -107,7 +107,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: 'Find me here:'
     items:
       - type: FeaturedItem
         actions:
