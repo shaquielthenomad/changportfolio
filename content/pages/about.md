@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: ''
+            label: '@shaquielthenomad'
             url: 'https://www.instagram.com/shaquielthenomad'
         styles:
           self:
