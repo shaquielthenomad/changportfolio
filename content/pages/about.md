@@ -229,7 +229,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: "2022 - 2025\n\n*   Bachelor of Business Administration - High Tech Entrepreneurship @[University of the Thai Chamber of Commerce](https://utcc.ac.th) \U0001F1F9\U0001F1EDBangkok, Thailand (2022 - 2025)\n\n*   Bachelor’s Degree, Digital Marketing @[HARBOUR.SPACE](https://harbour.space) \U0001F1EA\U0001F1F8Barcelona, Spain \n\n"
+        text: "2022 - 2025\n\n*   Bachelor of Business Administration - High Tech Entrepreneurship @[University of the Thai Chamber of Commerce](https://utcc.ac.th) \U0001F1F9\U0001F1ED \nBangkok, Thailand\n\n*   Bachelor’s Degree, Digital Marketing @[HARBOUR.SPACE](https://harbour.space) \U0001F1EA\U0001F1F8\nBarcelona, Spain\n\n"
         actions: []
         styles:
           self:
