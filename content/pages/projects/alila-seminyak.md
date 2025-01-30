@@ -236,7 +236,7 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: 'Alila Seminyak: A Hyatt Property'
-    subtitle: The section subtitle
+    subtitle: Opened in 2015
     text: >+
       Alila Seminyak: A Hyatt Property
 
