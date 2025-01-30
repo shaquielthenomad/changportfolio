@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Marketing Consulting Services
-    subtitle: The section subtitle
+    subtitle: ''
     text: >
       #
 
