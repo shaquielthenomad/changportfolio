@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Alila Seminyak
+title: 'Alila Seminyak: Luxury Hotel in Bali'
 date: '2025-01-30'
 client: Awesome client
 description: >-
