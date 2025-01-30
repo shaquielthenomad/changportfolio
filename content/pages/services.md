@@ -8,8 +8,6 @@ sections:
     title: Marketing Consulting Services
     subtitle: ''
     text: >
-      #
-
 
       ## Introduction
 
