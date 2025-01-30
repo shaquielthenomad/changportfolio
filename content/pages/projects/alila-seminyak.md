@@ -99,7 +99,7 @@ bottomSections:
       - type: ImageBlock
         url: >-
           /images/downloadgram.org_474539879_18374604322114515_4087003112402628338_n.jpg
-        altText: Image two
+        altText: Bathroom
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
