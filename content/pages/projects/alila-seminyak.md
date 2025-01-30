@@ -97,7 +97,8 @@ bottomSections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: >-
+          /images/downloadgram.org_474539879_18374604322114515_4087003112402628338_n.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
