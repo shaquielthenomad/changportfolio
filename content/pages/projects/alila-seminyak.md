@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/471802109_938652728242183_8537878231499322629_n.jpg
-  altText: Project thumbnail image
+  altText: 'Alila Hotel, Seminyak'
   caption: ''
   elementId: ''
 media:
