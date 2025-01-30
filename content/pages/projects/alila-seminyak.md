@@ -266,7 +266,7 @@ bottomSections:
           name: message
           label: Tell me about your travel
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your next journey
           width: full
           isRequired: true
         - type: CheckboxFormControl
