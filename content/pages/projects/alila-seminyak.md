@@ -206,13 +206,6 @@ bottomSections:
         text: >
           Savor delectable dishes at Seasalt, the beachfront restaurant, and
           unwind at the Beach Bar with handcrafted cocktails.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
