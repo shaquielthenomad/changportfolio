@@ -106,7 +106,7 @@ bottomSections:
         url: >-
           /images/downloadgram.org_474676797_18374604349114515_7528051058081017248_n.jpg
         altText: ''
-        caption: Image three caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-4.jpg
