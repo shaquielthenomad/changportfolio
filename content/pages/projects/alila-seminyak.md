@@ -195,13 +195,6 @@ bottomSections:
         text: >
           Enjoy multiple outdoor pools, a state-of-the-art fitness center, and
           the rejuvenating Alila Spa.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
