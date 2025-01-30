@@ -2,21 +2,24 @@
 type: ProjectLayout
 title: 'Alila Seminyak: Luxury Hotel in Bali'
 date: '2025-01-30'
-client: Awesome client
+client: A Hyatt Property
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Alila Seminyak is a sophisticated beachfront resort that seamlessly blends
+  contemporary design with traditional Balinese elements. Located just steps
+  from the Indian Ocean, it offers guests a serene escape with panoramic ocean
+  views, lush gardens, and direct access to Seminyak Beach.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
+  url: /images/471802109_938652728242183_8537878231499322629_n.jpg
+  altText: 'Alila Hotel, Seminyak'
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
+  url: >-
+    /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
+  altText: 'Alila Seminyak, Bali'
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
@@ -34,7 +37,7 @@ bottomSections:
         quote: >
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
+        name: ''
         title: CEO at Parks
         image:
           type: ImageBlock
@@ -84,28 +87,44 @@ bottomSections:
       subtitle:
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: Highlights
+    subtitle: Alila Seminyak
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
+        url: >-
+          /images/downloadgram.org_474758891_18374604304114515_8114588384437669524_n.jpg
+        altText: Bedroom
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
+        url: >-
+          /images/downloadgram.org_474539879_18374604322114515_4087003112402628338_n.jpg
+        altText: Bathroom
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
+        url: >-
+          /images/downloadgram.org_474676797_18374604349114515_7528051058081017248_n.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
+        url: >-
+          /images/downloadgram.org_474726811_18374604313114515_5986728661926049478_n.jpg
+        altText: Poolside
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/downloadgram.org_474551643_18374604331114515_1036493839984548522_n.jpg
+        altText: Poolside
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/downloadgram.org_474662121_18374604373114515_5851850675771725675_n.jpg
+        altText: Greenery
+        caption: ''
         elementId: ''
     colors: colors-c
     spacing: 16
