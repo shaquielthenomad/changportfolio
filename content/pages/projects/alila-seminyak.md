@@ -118,7 +118,7 @@ bottomSections:
         url: >-
           /images/downloadgram.org_474551643_18374604331114515_1036493839984548522_n.jpg
         altText: Poolside
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-c
     spacing: 16
