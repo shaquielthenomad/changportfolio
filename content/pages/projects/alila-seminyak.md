@@ -36,7 +36,7 @@ bottomSections:
     variant: variant-a
     title: 'Alila Seminyak: A Hyatt Property'
     subtitle: Opened in 2015
-    text: >+
+    text: >
       **Hotel Group**: Alila Hotels (part of Hyatt)
 
 
@@ -59,15 +59,18 @@ bottomSections:
       ## Amenities
 
 
-      *   **Pools**: Four outdoor pools, including a beachfront infinity pool.
+      **Pools**: Four outdoor pools, including a beachfront infinity pool.
 
-      *   **Dining**: Seasalt Restaurant offers beachfront dining with a focus
-      on fresh seafood.
 
-      *   **Spa**: Alila Spa provides traditional Balinese treatments in a
-      tranquil setting.
+      **Dining**: Seasalt Restaurant offers beachfront dining with a focus on
+      fresh seafood.
 
-      *   **Fitness Center**: A well-equipped gym for guests.
+
+      **Spa**: Alila Spa provides traditional Balinese treatments in a tranquil
+      setting.
+
+
+      **Fitness Center**: A well-equipped gym for guests.
 
 
       ## Reviews
@@ -85,7 +88,6 @@ bottomSections:
 
 
       **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
-
     elementId: ''
     styles:
       self:
