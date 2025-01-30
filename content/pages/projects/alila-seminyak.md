@@ -122,7 +122,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          /images/downloadgram.org_474662121_18374604373114515_5851850675771725675_n.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
