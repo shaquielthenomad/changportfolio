@@ -306,4 +306,5 @@ bottomSections:
         textAlign: left
       subtitle:
         textAlign: left
+socialImage: /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
 ---
