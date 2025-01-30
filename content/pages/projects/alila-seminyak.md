@@ -94,7 +94,7 @@ bottomSections:
         url: >-
           /images/downloadgram.org_474758891_18374604304114515_8114588384437669524_n.jpg
         altText: Bedroom
-        caption: Image one caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
