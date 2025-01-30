@@ -31,51 +31,68 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections:
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: ''
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-      - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-d
-    variant: variant-c
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: 'Alila Seminyak: A Hyatt Property'
+    subtitle: Opened in 2015
+    text: >
+      **Hotel Group**: Alila Hotels (part of Hyatt)
+
+
+      **Type of Stay**: Luxury Beachfront Resort
+
+
+      **Budget**: $$$ (High-End)
+
+
+      **Location**: Seminyak, Bali, Indonesia
+
+
+      ## Accommodations
+
+
+      The resort features 240 rooms and suites, each designed with a modern
+      aesthetic and traditional Balinese touches.
+
+
+      ## Amenities
+
+
+      **Pools**: Four outdoor pools, including a beachfront infinity pool.
+
+
+      **Dining**: Seasalt Restaurant offers beachfront dining with a focus on
+      fresh seafood.
+
+
+      **Spa**: Alila Spa provides traditional Balinese treatments in a tranquil
+      setting.
+
+
+      **Fitness Center**: A well-equipped gym for guests.
+
+
+      ## Reviews
+
+
+      There is much praise for the hotel's prime location, attentive service,
+      and luxurious amenities. Service is generally excellent, however the value
+      may be compromised by higher food and beverage prices.
+
+
+      ## Contact Information
+
+
+      **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
+
+
+      **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-28
@@ -83,9 +100,11 @@ bottomSections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
+      text:
+        textAlign: center
   - type: MediaGallerySection
     title: Highlights
     subtitle: Alila Seminyak
@@ -159,88 +178,53 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Offering
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Prime Location
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Situated on the pristine sands of Seminyak Beach, guests can enjoy
+          direct beach access and stunning ocean views.
+
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Luxurious Accommodation
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        text: >
+          Rooms and suites feature contemporary architecture with private
+          terraces or balconies, offering a blend of comfort and style.
+        actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: World-Class Amenities
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        text: >
+          Enjoy multiple outdoor pools, a state-of-the-art fitness center, and
+          the rejuvenating Alila Spa.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Culinary Excellence
+        subtitle: ''
+        text: >
+          Savor delectable dishes at Seasalt, the beachfront restaurant, and
+          unwind at the Beach Bar with handcrafted cocktails.
         elementId: ''
         styles:
           self:
@@ -267,4 +251,60 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: ''
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-d
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+socialImage: /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
 ---
