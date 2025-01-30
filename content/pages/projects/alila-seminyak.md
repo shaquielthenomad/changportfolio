@@ -192,10 +192,9 @@ bottomSections:
       - type: FeaturedItem
         title: World-Class Amenities
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Enjoy multiple outdoor pools, a state-of-the-art fitness center, and
+          the rejuvenating Alila Spa.
         featuredImage:
           type: ImageBlock
           url: >-
