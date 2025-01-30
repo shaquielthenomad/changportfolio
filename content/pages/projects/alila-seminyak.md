@@ -93,7 +93,7 @@ bottomSections:
       - type: ImageBlock
         url: >-
           /images/downloadgram.org_474758891_18374604304114515_8114588384437669524_n.jpg
-        altText: Image one
+        altText: Bedroom
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
