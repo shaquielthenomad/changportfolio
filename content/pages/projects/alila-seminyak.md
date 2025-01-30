@@ -274,7 +274,7 @@ bottomSections:
           label: Receive updates
           width: full
           isRequired: 'false'
-      submitLabel: Send Message
+      submitLabel: Send Request
       elementId: contact-form
       styles:
         submitLabel:
