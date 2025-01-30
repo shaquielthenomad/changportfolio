@@ -237,20 +237,11 @@ bottomSections:
     variant: variant-a
     title: 'Alila Seminyak: A Hyatt Property'
     subtitle: Opened in 2015
-    text: >+
-      Alila Seminyak: A Hyatt Property
-
-      Opened in 2015
-
-      --------------
-
-
-
+    text: >
       Alila Seminyak is a modernist beachfront resort that radiates
       sophistication and vibrance. Its design features clean lines, minimalist
       furniture, and a buzzy rooftop watering hole, fitting seamlessly into the
-      vibrant Seminyak neighborhood. 
-
+      vibrant Seminyak neighborhood.
     elementId: ''
     styles:
       self:
