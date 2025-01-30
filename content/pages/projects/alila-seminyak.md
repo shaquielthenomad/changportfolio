@@ -271,7 +271,7 @@ bottomSections:
           isRequired: true
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: Receive updates
           width: full
           isRequired: 'false'
       submitLabel: Send Message
