@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Alila Seminyak: Luxury Hotel in Bali'
 date: '2025-01-30'
-client: Awesome client
+client: A Hyatt Property
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
