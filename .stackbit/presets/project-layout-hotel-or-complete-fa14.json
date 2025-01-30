@@ -1,0 +1,365 @@
+{
+    "model": "ProjectLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Hotel | complete",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Hotel"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "alila-seminyak",
+                "title": "Alila Seminyak: Luxury Hotel in Bali",
+                "date": "2025-01-30",
+                "client": "A Hyatt Property",
+                "description": "Alila Seminyak is a sophisticated beachfront resort that seamlessly blends contemporary design with traditional Balinese elements. Located just steps from the Indian Ocean, it offers guests a serene escape with panoramic ocean views, lush gardens, and direct access to Seminyak Beach.",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/471802109_938652728242183_8537878231499322629_n.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Alila Hotel, Seminyak",
+                    "caption": "",
+                    "elementId": ""
+                },
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Alila Seminyak, Bali",
+                    "caption": "",
+                    "elementId": ""
+                },
+                "bottomSections": [
+                    {
+                        "$$type": "TextSection",
+                        "colors": "colors-f",
+                        "variant": "variant-a",
+                        "title": "Alila Seminyak: A Hyatt Property",
+                        "subtitle": "Opened in 2015",
+                        "text": "**Hotel Group**: Alila Hotels (part of Hyatt)\n\n**Type of Stay**: Luxury Beachfront Resort\n\n**Budget**: $$$ (High-End)\n\n**Location**: Seminyak, Bali, Indonesia\n\n## Accommodations\n\nThe resort features 240 rooms and suites, each designed with a modern aesthetic and traditional Balinese touches.\n\n## Amenities\n\n**Pools**: Four outdoor pools, including a beachfront infinity pool.\n\n**Dining**: Seasalt Restaurant offers beachfront dining with a focus on fresh seafood.\n\n**Spa**: Alila Spa provides traditional Balinese treatments in a tranquil setting.\n\n**Fitness Center**: A well-equipped gym for guests.\n\n## Reviews\n\nThere is much praise for the hotel's prime location, attentive service, and luxurious amenities. Service is generally excellent, however the value may be compromised by higher food and beverage prices.\n\n## Contact Information\n\n**Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia\n\n**Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)\n",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-28",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            },
+                            "text": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "MediaGallerySection",
+                        "title": "Highlights",
+                        "subtitle": "Alila Seminyak",
+                        "images": [
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474758891_18374604304114515_8114588384437669524_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Bedroom",
+                                "caption": "",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474539879_18374604322114515_4087003112402628338_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Bathroom",
+                                "caption": "",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474676797_18374604349114515_7528051058081017248_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "",
+                                "caption": "",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474726811_18374604313114515_5986728661926049478_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Poolside",
+                                "caption": "",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474551643_18374604331114515_1036493839984548522_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Poolside",
+                                "caption": "",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474662121_18374604373114515_5851850675771725675_n.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Greenery",
+                                "caption": "",
+                                "elementId": ""
+                            }
+                        ],
+                        "colors": "colors-c",
+                        "spacing": 16,
+                        "columns": 2,
+                        "aspectRatio": "1:1",
+                        "showCaption": false,
+                        "enableHover": false,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": "Offering",
+                        "subtitle": null,
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Prime Location",
+                                "subtitle": "",
+                                "text": "Situated on the pristine sands of Seminyak Beach, guests can enjoy direct beach access and stunning ocean views.\n\n",
+                                "featuredImage": {
+                                    "$$type": "ImageBlock",
+                                    "url": null,
+                                    "altText": "Item image",
+                                    "caption": "Caption of the image",
+                                    "elementId": ""
+                                },
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Luxurious Accommodation",
+                                "subtitle": "",
+                                "text": "Rooms and suites feature contemporary architecture with private terraces or balconies, offering a blend of comfort and style.\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "World-Class Amenities",
+                                "subtitle": "",
+                                "text": "Enjoy multiple outdoor pools, a state-of-the-art fitness center, and the rejuvenating Alila Spa.\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "Culinary Excellence",
+                                "subtitle": "",
+                                "text": "Savor delectable dishes at Seasalt, the beachfront restaurant, and unwind at the Beach Bar with handcrafted cocktails.\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 1,
+                        "spacingX": 16,
+                        "spacingY": 16,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ContactSection",
+                        "title": "Interested?",
+                        "text": "Let me plan your next journey, let's chat !\n",
+                        "form": {
+                            "$$type": "FormBlock",
+                            "title": "Title of the form",
+                            "fields": [
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "name",
+                                    "label": "Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Your name",
+                                    "width": "1/2",
+                                    "isRequired": "true"
+                                },
+                                {
+                                    "$$type": "EmailFormControl",
+                                    "name": "email",
+                                    "label": "Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Your email",
+                                    "width": "1/2",
+                                    "isRequired": "true"
+                                },
+                                {
+                                    "$$type": "TextareaFormControl",
+                                    "name": "message",
+                                    "label": "Tell me about your travel",
+                                    "hideLabel": true,
+                                    "placeholder": "Tell me about your next journey",
+                                    "width": "full",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "CheckboxFormControl",
+                                    "name": "updates",
+                                    "label": "Receive updates",
+                                    "width": "full",
+                                    "isRequired": "false"
+                                }
+                            ],
+                            "submitLabel": "Send Request",
+                            "elementId": "contact-form",
+                            "styles": {
+                                "submitLabel": {
+                                    "textAlign": "left"
+                                }
+                            }
+                        },
+                        "media": null,
+                        "colors": "colors-f",
+                        "backgroundSize": "full",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "row"
+                            },
+                            "title": {
+                                "textAlign": "center"
+                            },
+                            "text": {
+                                "textAlign": "center"
+                            }
+                        }
+                    }
+                ],
+                "metaTitle": null,
+                "metaDescription": null,
+                "addTitleSuffix": true,
+                "socialImage": {
+                    "$$ref": "stackbit_asset_id:static:public/images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg",
+                    "$$type": "__asset_model"
+                },
+                "metaTags": [],
+                "colors": "colors-a",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/bg2.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 100
+                },
+                "markdown_content": ""
+            }
+        }
+    ]
+}
