@@ -158,6 +158,78 @@ bottomSections:
           - pb-36
         justifyContent: center
         borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: 'Alila Seminyak: A Hyatt Property'
+    subtitle: Opened in 2015
+    text: >+
+      **Hotel Group**: Alila Hotels (part of Hyatt)
+
+
+      **Type of Stay**: Luxury Beachfront Resort
+
+
+      **Budget**: $$$ (High-End)
+
+
+      **Location**: Seminyak, Bali, Indonesia
+
+
+      ## Accommodations
+
+
+      The resort features 240 rooms and suites, each designed with a modern
+      aesthetic and traditional Balinese touches.
+
+
+      ## Amenities
+
+
+      *   **Pools**: Four outdoor pools, including a beachfront infinity pool.
+
+      *   **Dining**: Seasalt Restaurant offers beachfront dining with a focus
+      on fresh seafood.
+
+      *   **Spa**: Alila Spa provides traditional Balinese treatments in a
+      tranquil setting.
+
+      *   **Fitness Center**: A well-equipped gym for guests.
+
+
+      ## Reviews
+
+
+      There is much praise for the hotel's prime location, attentive service,
+      and luxurious amenities. Service is generally excellent, however the value
+      may be compromised by higher food and beverage prices.
+
+
+      ## Contact Information
+
+
+      **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
+
+
+      **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title: Offering
     items:
@@ -232,76 +304,4 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: 'Alila Seminyak: A Hyatt Property'
-    subtitle: Opened in 2015
-    text: >+
-      **Hotel Group**: Alila Hotels (part of Hyatt)
-
-
-      **Type of Stay**: Luxury Beachfront Resort
-
-
-      **Budget**: $$$ (High-End)
-
-
-      **Location**: Seminyak, Bali, Indonesia
-
-
-      ## Accommodations
-
-
-      The resort features 240 rooms and suites, each designed with a modern
-      aesthetic and traditional Balinese touches.
-
-
-      ## Amenities
-
-
-      *   **Pools**: Four outdoor pools, including a beachfront infinity pool.
-
-      *   **Dining**: Seasalt Restaurant offers beachfront dining with a focus
-      on fresh seafood.
-
-      *   **Spa**: Alila Spa provides traditional Balinese treatments in a
-      tranquil setting.
-
-      *   **Fitness Center**: A well-equipped gym for guests.
-
-
-      ## Reviews
-
-
-      There is much praise for the hotel's prime location, attentive service,
-      and luxurious amenities. Service is generally excellent, however the value
-      may be compromised by higher food and beverage prices.
-
-
-      ## Contact Information
-
-
-      **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
-
-
-      **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---
