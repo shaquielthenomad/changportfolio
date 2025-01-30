@@ -162,7 +162,7 @@ bottomSections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Prime Location
         subtitle: ''
         text: |+
           1.  **Prime Location**
