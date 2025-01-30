@@ -242,7 +242,8 @@ bottomSections:
         justifyContent: flex-start
   - type: ContactSection
     title: Interested?
-    text: I'm look forward to hearing from you.
+    text: |
+      Let me plan your next journey
     form:
       type: FormBlock
       title: Title of the form
