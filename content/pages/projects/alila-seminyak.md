@@ -184,16 +184,7 @@ bottomSections:
         text: >
           Rooms and suites feature contemporary architecture with private
           terraces or balconies, offering a blend of comfort and style.
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
