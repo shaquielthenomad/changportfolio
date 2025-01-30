@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/471802109_938652728242183_8537878231499322629_n.jpg
-  altText: Project image
+  altText: 'Alila Seminyak, Bali'
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
