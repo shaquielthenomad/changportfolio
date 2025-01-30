@@ -166,17 +166,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: Offering
     items:
@@ -251,60 +240,63 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: ''
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-      - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-d
-    variant: variant-c
+  - type: ContactSection
+    title: Interested?
+    text: |
+      Let me plan your next journey, let's chat !
+    form:
+      type: FormBlock
+      title: Title of the form
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
+          hideLabel: true
+          placeholder: Your email
+          width: 1/2
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your travel
+          hideLabel: true
+          placeholder: Tell me about your next journey
+          width: full
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updates
+          label: Receive updates
+          width: full
+          isRequired: 'false'
+      submitLabel: Send Request
+      elementId: contact-form
+      styles:
+        submitLabel:
+          textAlign: left
+    colors: colors-f
+    backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
-          - pb-28
+          - pb-36
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+        textAlign: center
+      text:
+        textAlign: center
 socialImage: /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
 ---
