@@ -16,7 +16,8 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/471802109_938652728242183_8537878231499322629_n.jpg
+  url: >-
+    /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
   altText: 'Alila Seminyak, Bali'
   caption: Caption of the image
   elementId: ''
