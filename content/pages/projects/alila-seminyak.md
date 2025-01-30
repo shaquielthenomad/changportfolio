@@ -124,7 +124,7 @@ bottomSections:
         url: >-
           /images/downloadgram.org_474662121_18374604373114515_5851850675771725675_n.jpg
         altText: Greenery
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-c
     spacing: 16
