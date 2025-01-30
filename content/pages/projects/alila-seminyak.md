@@ -91,7 +91,8 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: >-
+          /images/downloadgram.org_474758891_18374604304114515_8114588384437669524_n.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
