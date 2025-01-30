@@ -117,7 +117,7 @@ bottomSections:
       - type: ImageBlock
         url: >-
           /images/downloadgram.org_474551643_18374604331114515_1036493839984548522_n.jpg
-        altText: altText of the image
+        altText: Poolside
         caption: Caption of the image
         elementId: ''
     colors: colors-c
