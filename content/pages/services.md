@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Consulting Services
-    subtitle: ''
+    subtitle: 'Global Advisory, '
     text: >
 
       ## Introduction
