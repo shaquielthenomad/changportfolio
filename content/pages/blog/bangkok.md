@@ -2,7 +2,7 @@
 type: PostLayout
 title: "How I started a startup \U0001F680"
 date: '2021-06-28'
-author: content/data/team/doris-soto.json
+author: content/data/team/shaquiel.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
