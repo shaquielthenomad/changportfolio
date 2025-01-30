@@ -243,7 +243,7 @@ bottomSections:
   - type: ContactSection
     title: Interested?
     text: |
-      Let me plan your next journey
+      Let me plan your next journey, let's chat !
     form:
       type: FormBlock
       title: Title of the form
