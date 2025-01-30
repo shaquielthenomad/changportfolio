@@ -88,7 +88,7 @@ bottomSections:
         textAlign: left
   - type: MediaGallerySection
     title: Highlights
-    subtitle: This is the subtitle
+    subtitle: Alila Seminyak
     images:
       - type: ImageBlock
         url: >-
