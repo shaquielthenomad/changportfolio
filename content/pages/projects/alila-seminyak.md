@@ -237,12 +237,18 @@ bottomSections:
     variant: variant-a
     title: 'Alila Seminyak: A Hyatt Property'
     subtitle: Opened in 2015
-    text: >
+    text: >+
       **Hotel Group**: Alila Hotels (part of Hyatt)
+
+
 
       **Type of Stay**: Luxury Beachfront Resort
 
+
+
       **Budget**: $$$ (High-End)
+
+
 
       **Location**: Seminyak, Bali, Indonesia
 
@@ -282,6 +288,7 @@ bottomSections:
       *   **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
 
       *   **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
+
     elementId: ''
     styles:
       self:
