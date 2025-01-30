@@ -237,13 +237,20 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Alila Seminyak: A Hyatt Property
+
+      Opened in 2015
+
+      --------------
+
+
+
+      Alila Seminyak is a modernist beachfront resort that radiates
+      sophistication and vibrance. Its design features clean lines, minimalist
+      furniture, and a buzzy rooftop watering hole, fitting seamlessly into the
+      vibrant Seminyak neighborhood. 
+
     elementId: ''
     styles:
       self:
