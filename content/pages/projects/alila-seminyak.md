@@ -159,7 +159,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Offering
     items:
       - type: FeaturedItem
         title: Prime Location
