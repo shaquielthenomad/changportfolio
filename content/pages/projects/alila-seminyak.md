@@ -123,7 +123,7 @@ bottomSections:
       - type: ImageBlock
         url: >-
           /images/downloadgram.org_474662121_18374604373114515_5851850675771725675_n.jpg
-        altText: altText of the image
+        altText: Greenery
         caption: Caption of the image
         elementId: ''
     colors: colors-c
