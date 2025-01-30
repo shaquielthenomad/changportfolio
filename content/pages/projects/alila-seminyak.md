@@ -164,6 +164,17 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
@@ -219,17 +230,6 @@ bottomSections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: Offering
     items:
