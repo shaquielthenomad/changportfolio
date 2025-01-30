@@ -203,10 +203,9 @@ bottomSections:
       - type: FeaturedItem
         title: Culinary Excellence
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Savor delectable dishes at Seasalt, the beachfront restaurant, and
+          unwind at the Beach Bar with handcrafted cocktails.
         featuredImage:
           type: ImageBlock
           url: >-
