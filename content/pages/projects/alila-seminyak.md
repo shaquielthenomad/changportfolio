@@ -241,13 +241,10 @@ bottomSections:
       **Hotel Group**: Alila Hotels (part of Hyatt)
 
 
-
       **Type of Stay**: Luxury Beachfront Resort
 
 
-
       **Budget**: $$$ (High-End)
-
 
 
       **Location**: Seminyak, Bali, Indonesia
@@ -285,9 +282,10 @@ bottomSections:
       ## Contact Information
 
 
-      *   **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
+      **Address**: Jalan Taman Ganesha No. 9, Seminyak, Bali, Indonesia
 
-      *   **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
+
+      **Website**: [Alila Seminyak](https://www.alilahotels.com/seminyak/)
 
     elementId: ''
     styles:
