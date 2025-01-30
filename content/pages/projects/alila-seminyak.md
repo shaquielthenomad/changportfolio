@@ -3,7 +3,11 @@ type: ProjectLayout
 title: 'Alila Seminyak: Luxury Hotel in Bali'
 date: '2025-01-30'
 client: A Hyatt Property
-description: ''
+description: >-
+  Alila Seminyak is a sophisticated beachfront resort that seamlessly blends
+  contemporary design with traditional Balinese elements. Located just steps
+  from the Indian Ocean, it offers guests a serene escape with panoramic ocean
+  views, lush gardens, and direct access to Seminyak Beach.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
