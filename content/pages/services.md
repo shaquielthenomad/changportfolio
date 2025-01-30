@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Marketing Consulting Services
+    title: Consulting Services
     subtitle: ''
     text: >
 
