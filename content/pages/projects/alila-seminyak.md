@@ -181,10 +181,9 @@ bottomSections:
       - type: FeaturedItem
         title: Luxurious Accommodation
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Rooms and suites feature contemporary architecture with private
+          terraces or balconies, offering a blend of comfort and style.
         featuredImage:
           type: ImageBlock
           url: >-
