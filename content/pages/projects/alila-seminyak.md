@@ -235,7 +235,7 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: 'Alila Seminyak: A Hyatt Property'
     subtitle: The section subtitle
     text: >+
       Alila Seminyak: A Hyatt Property
