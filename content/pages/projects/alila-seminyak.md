@@ -164,10 +164,19 @@ bottomSections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          1.  **Prime Location**
+              *Description*: Situated on the pristine sands of Seminyak Beach, guests can enjoy direct beach access and stunning ocean views.
+
+          2.  **Luxurious Accommodations**
+              *Description*: Our rooms and suites feature contemporary architecture with private terraces or balconies, offering a blend of comfort and style. [alilahotels.com](https://www.alilahotels.com/seminyak/rooms/?utm_source=chatgpt.com)
+
+          3.  **World-Class Amenities**
+              *Description*: Enjoy multiple outdoor pools, a state-of-the-art fitness center, and the rejuvenating Alila Spa.
+
+          4.  **Culinary Excellence**
+              *Description*: Savor delectable dishes at Seasalt, our beachfront restaurant, and unwind at the Beach Bar with handcrafted cocktails.
+
         featuredImage:
           type: ImageBlock
           url: >-
