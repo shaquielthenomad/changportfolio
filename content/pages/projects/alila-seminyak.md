@@ -184,13 +184,6 @@ bottomSections:
         text: >
           Rooms and suites feature contemporary architecture with private
           terraces or balconies, offering a blend of comfort and style.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
