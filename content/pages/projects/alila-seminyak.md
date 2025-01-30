@@ -19,7 +19,7 @@ media:
   url: >-
     /images/downloadgram.org_474566428_18374604277114515_7359946117712754927_n.jpg
   altText: 'Alila Seminyak, Bali'
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
