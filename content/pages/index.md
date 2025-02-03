@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Hey, I’m Shaquiel. Born in South Africa\U0001F1FF\U0001F1E6, now based in Bangkok\U0001F1F9\U0001F1ED. I’m a strategist, marketer, and explorer - Constantly learning new languages, and building connections."
+    title: >-
+      Hey, I’m Shaquiel.Data-Driven Marketing Strategist | BBA in Marketing &
+      Entrepreneurship | Turning Insights into Impact
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
